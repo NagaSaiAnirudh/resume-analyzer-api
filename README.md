@@ -20,3 +20,9 @@ This project is part of my work exploring AI-powered backend systems and LLM int
 Initial version - actively building
 Last updated: Initial AI integration setup
 Planned: LLM integration and resume scoring module
+
+## Roadmap
+- Integrate LLM API for resume analysis
+- Implement scoring algorithm
+- Add job description comparison
+- Improve response accuracy
