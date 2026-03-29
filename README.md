@@ -19,3 +19,4 @@ This project is part of my work exploring AI-powered backend systems and LLM int
 ## Status
 Initial version - actively building
 Last updated: Initial AI integration setup
+Planned: LLM integration and resume scoring module
